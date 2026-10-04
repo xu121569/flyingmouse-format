@@ -1,4 +1,4 @@
-# FlyingMouse Format / 飞鼠格式
+# 格式转换
 
 > **0.7.10 Windows 公开版 / Windows release**：修复大 TXT 转 EPUB 资源暴涨、混合 PDF 漏页和结果保存问题，增加真实耗时与阶段进度。此次提供 Windows 10/11 x64 完整版；Microsoft Store 状态独立核对。见 [版本说明 / Release notes](docs/release-notes-0710.md)。
 
